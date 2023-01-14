@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>testing</h1>
       <h2>working fine</h2>
+      <h2>working fine</h2>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
