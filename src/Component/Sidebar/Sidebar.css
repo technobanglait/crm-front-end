@@ -1,0 +1,38 @@
+.Sidebar{
+    padding-top: 30px;
+}
+
+.navMenu{
+    /* border: solid 1px red; */
+    
+    /* display: flex;
+    flex-direction: row; */
+    padding: 10px;
+    color: white;
+    font-size: smaller;
+}
+
+.navMenu:hover{
+    cursor: pointer;
+    background-color: #1b9480;
+}
+
+.navIconDiv{
+    text-align: right;
+}
+
+.navTitleDiv{
+    
+}
+
+.subMenu:hover{
+    background-color: #1b9480;
+}
+
+.subTitleDiv{
+    padding: 10px 0px 10px 70px;
+    border-bottom: solid 1px #1a7162;;
+    border-top: solid 1px #1a7162;;
+    color: white;
+    font-size: smaller;
+}
