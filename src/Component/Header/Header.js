@@ -17,7 +17,7 @@ const Header = () => {
         <Container fluid className='Header'>
             <Row>
                 <Col xs='10'>
-                    <div className='headerTitle'>DASHBOARD</div>
+                    {/* <div className='headerTitle'>DASHBOARD</div> */}
                 </Col>
                 <Col>
                     Hello Admin<IconButton onClick={handleOpen}>
