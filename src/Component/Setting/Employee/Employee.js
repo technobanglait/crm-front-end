@@ -106,11 +106,7 @@ const Employee = () => {
 
                 {/* CREDIT INFO */}
                 <Row className="mb-3">
-                    <Form.Group as={Col} xs={12} md={6} lg={3}>
-                        <Form.Label>Credit Limit</Form.Label>
-                        <Form.Control size="sm" type="text"/>
-                    </Form.Group>
-
+                    
                     <Form.Group as={Col} xs={12} md={6} lg={3}>
                         <Form.Label>Credit Days</Form.Label>
                         <Form.Control type="text" size="sm"/>
